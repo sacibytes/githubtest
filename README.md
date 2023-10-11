@@ -10,11 +10,11 @@
   - [Design](#design)
 - [Assets Used in Project](#assets-used-in-project)
 
-## Summary of Game
+### Summary of Game
 
 "Alien Pop" is an AR game where players must defend Earth from a comical alien invasion. Players tap on the ground to position the 3D environment, featuring a red spaceship and surrounding buildings and trees. The objective is to pop alien characters that spawn around the spaceship. There are two types of aliens: Slime Aliens (red, tap twice to pop) and TurtleShell Aliens (blue, tap three times to pop). Players must avoid tapping on the Gas Bomb, which results in point deduction. The game's goal is to accrue the highest score, and players can choose to play for fun or aim for a specific objective.
 
-## User Manual
+### User Manual
 
 1. **Game Menu:**
    - Click the "PLAY" button to start the game.
@@ -44,7 +44,7 @@
 - Canvas used for UI elements.
 - Game assets include buildings, trees, spaceship, and aliens.
 
-## Assets Used in Project
+### Assets Used in Project
 
 - Cartoon Buildings
 - BearStudio Low Poly Pine Trees
