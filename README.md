@@ -1,4 +1,4 @@
-![image](https://github.com/sacibytes/unity3d-ar-alien-pop/assets/143756133/540da200-2cd6-45f6-939c-58586cfd2db1)## Alien Pop - Augmented Reality Game
+![image](https://github.com/sacibytes/unity3d-ar-alien-pop/assets/143756133/540da200-2cd6-45f6-939c-58586cfd2db1)
 
 ![Alien_Pop](search-ms:displayname=Search%20Results%20in%20Quick%20access&crumb=System.Generic.String%3A(alien%20pop)&crumb=location:%3A%3A{679F85CB-0220-4080-B29B-5540CC05AAB6})
 
@@ -50,5 +50,4 @@
 - BearStudio Low Poly Pine Trees
 - 3D Red Spaceship
 
-Feel free to explore the project, play the game, and contribute to its development. Have fun!
 
